@@ -3,4 +3,6 @@
 ---
 Thoughts
 
+Thoughts
+
 [[Body\|Body]]
