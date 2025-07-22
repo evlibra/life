@@ -1,6 +1,7 @@
 ---
 {"dg-publish":true,"permalink":"/mind/"}
 ---
+
 Thoughts
 
 Thoughts
