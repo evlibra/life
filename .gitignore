@@ -12,3 +12,4 @@ src/site/styles/_theme.*.css
 _site/
 **/.DS_Store
 /src/site/notes/.obsidian/plugins/digitalgarden/data.json
+.obsidian
