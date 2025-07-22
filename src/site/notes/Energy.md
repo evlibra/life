@@ -1,4 +1,7 @@
 ---
-dg-publish: true
+{"dg-publish":true,"permalink":"/energy/"}
 ---
-[[Body]]
+
+[[Body\|Body]]
+
+Sleep
