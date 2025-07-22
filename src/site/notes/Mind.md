@@ -3,7 +3,7 @@
 ---
 
 Learn 
-
+Organize
 Thoughts
 
 [[Body\|Body]]
