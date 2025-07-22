@@ -3,7 +3,6 @@
 ---
 
 
-Thoughts
 
 Thoughts
 
