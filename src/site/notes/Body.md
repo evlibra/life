@@ -1,8 +1,6 @@
 ---
 {"dg-publish":true,"permalink":"/body/"}
 ---
-
+[[Mind\|Mind]]
 
 Nutrition 
-
-[[Mind\|Mind]]
