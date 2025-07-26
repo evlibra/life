@@ -3,7 +3,7 @@
 ---
 
 [[Human/Body\|Body]]
-[[People/Knowledge\|Knowledge]]
+[[Resources/Knowledge\|Knowledge]]
 
 
 

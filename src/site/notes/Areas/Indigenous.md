@@ -2,4 +2,4 @@
 {"dg-publish":true,"permalink":"/areas/indigenous/"}
 ---
 
-[[People/Nicole Redvers\|Nicole Redvers]]
+[[Resources/Nicole Redvers\|Nicole Redvers]]
