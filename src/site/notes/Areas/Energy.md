@@ -2,5 +2,5 @@
 {"dg-publish":true,"permalink":"/areas/energy/"}
 ---
 
-[[Areas/Body\|Body]]
-Sleep
+[[Resources/Exercise\|Exercise]]
+[[Areas/Nutrition\|Nutrition]]
