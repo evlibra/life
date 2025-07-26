@@ -1,4 +1,4 @@
 ---
-dg-publish:
+dg-publish: true
 ---
 [[Nicole Redvers]]

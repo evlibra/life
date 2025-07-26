@@ -1,5 +1,5 @@
 ---
-dg-publish:
+dg-publish: true
 ---
 
 Resources: [https://www.instagram.com/pavlenko.as/?hl=en](https://www.instagram.com/pavlenko.as/?hl=en)
