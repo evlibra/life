@@ -3,5 +3,5 @@
 ---
 
 [[Areas/Mind\|Mind]]
-[[Areas/Nutrition\|Nutrition]]
 [[Areas/Energy\|Energy]]
+[[Areas/Nutrition\|Nutrition]]
