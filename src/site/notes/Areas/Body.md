@@ -3,4 +3,5 @@
 ---
 
 [[Areas/Mind\|Mind]]
-[[Areas/Nutrition\|Nutrition]]
+
+Nutrition
