@@ -4,4 +4,4 @@
 
 [[Areas/Mind\|Mind]]
 
-Nutrition
+[[Areas/Nutrition\|Nutrition]]
