@@ -7,3 +7,5 @@
 [[Areas/Nutrition\|Nutrition]]
 
 [[Resources/Exercise\|Exercise]]
+
+[[Areas/Energy\|Energy]]
