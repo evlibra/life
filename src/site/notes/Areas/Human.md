@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/areas/human/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/areas/human/"}
 ---
 
 [[Areas/Body\|Body]]

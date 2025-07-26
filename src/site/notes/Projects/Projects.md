@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/projects/projects/"}
+{"dg-publish":true,"permalink":"/projects/projects/","tags":["gardenEntry"]}
 ---
 
 [[Areas/Human\|Human]]
