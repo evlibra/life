@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/projects/projects/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/projects/projects/"}
 ---
 
 [HeZen Portal](https://hezen.us/)
