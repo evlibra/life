@@ -1,5 +1,6 @@
 ---
-dg-publish: true
+{"dg-publish":true,"permalink":"/experts/"}
 ---
-[[Oleksandra Pavlenko]]
-[[Nicole Redvers]]
+
+[[Oleksandra Pavlenko\|Oleksandra Pavlenko]]
+[[Nicole Redvers\|Nicole Redvers]]

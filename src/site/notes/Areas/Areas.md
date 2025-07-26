@@ -1,5 +1,6 @@
 ---
-dg-publish: true
+{"dg-publish":true,"permalink":"/areas/areas/"}
 ---
-[[Naturopathy]]
-[[Indigenous]]
+
+[[Areas/Naturopathy\|Naturopathy]]
+[[Areas/Indigenous\|Indigenous]]

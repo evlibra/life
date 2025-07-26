@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/human/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/human/human/","tags":["gardenEntry"]}
 ---
 
 
@@ -7,4 +7,5 @@
 
 
 
-[[Body\|Body]]
+
+[[Human/Body\|Body]]

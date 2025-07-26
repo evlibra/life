@@ -1,9 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/energy/"}
+{"dg-publish":true,"permalink":"/human/energy/"}
 ---
 
 
 
-[[Body\|Body]]
+
+[[Human/Body\|Body]]
 
 Sleep

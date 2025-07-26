@@ -1,4 +1,5 @@
 ---
-dg-publish: true
+{"dg-publish":true,"permalink":"/areas/naturopathy/"}
 ---
-[[Oleksandra Pavlenko]]
+
+[[Oleksandra Pavlenko\|Oleksandra Pavlenko]]

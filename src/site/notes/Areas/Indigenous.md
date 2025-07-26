@@ -1,4 +1,5 @@
 ---
-dg-publish: true
+{"dg-publish":true,"permalink":"/areas/indigenous/"}
 ---
-[[Nicole Redvers]]
+
+[[Nicole Redvers\|Nicole Redvers]]

@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/mind/"}
+{"dg-publish":true,"permalink":"/human/mind/"}
 ---
+
 
 
 
@@ -9,4 +10,4 @@ Learn
 Organize
 Thoughts
 
-[[Body\|Body]]
+[[Human/Body\|Body]]
