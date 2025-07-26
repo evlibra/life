@@ -2,4 +2,4 @@
 {"dg-publish":true,"permalink":"/areas/naturopathy/"}
 ---
 
-[[Oleksandra Pavlenko\|Oleksandra Pavlenko]]
+[[People/Oleksandra Pavlenko\|Oleksandra Pavlenko]]
