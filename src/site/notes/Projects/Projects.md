@@ -4,6 +4,5 @@
 
 [HeZen Portal](https://hezen.us/)
 
-[[Projects/Human\|Human]]
 [[Projects/Experts\|Experts]]
 [[Projects/Enthusiasts\|Enthusiasts]]
