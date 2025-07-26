@@ -5,3 +5,5 @@
 [[Areas/Mind\|Mind]]
 
 [[Areas/Nutrition\|Nutrition]]
+
+[[Resources/Exercise\|Exercise]]
