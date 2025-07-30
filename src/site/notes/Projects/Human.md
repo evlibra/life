@@ -3,6 +3,7 @@
 ---
 
 
+
 [[Areas/Body\|Body]]
 [[Areas/Energy\|Energy]]
 [[Areas/Mind\|Mind]]
