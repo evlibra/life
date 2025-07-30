@@ -1,10 +1,7 @@
 ---
-dg-publish: true
-tags:
-  - nutrition
-  - energy
-permalink: /resources/oleksandra-pavlenko/
+{"dg-publish":true,"permalink":"/resources/oleksandra-pavlenko/","tags":["nutrition","energy"]}
 ---
+
 
 
 https://www.instagram.com/pavlenko.as/?hl=en
