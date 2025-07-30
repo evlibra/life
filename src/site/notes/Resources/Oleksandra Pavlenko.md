@@ -1,5 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/resources/oleksandra-pavlenko/","tags":["nutrition","energy"]}
+dg-publish: true
+tags:
+  - nutrition
+  - energy
 ---
 
 
