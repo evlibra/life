@@ -4,6 +4,7 @@
 
 
 
+
 [[Areas/Mind\|Mind]]
 [[Areas/Energy\|Energy]]
 [[Areas/Nutrition\|Nutrition]]
